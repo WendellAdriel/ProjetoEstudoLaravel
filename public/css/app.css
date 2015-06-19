@@ -1,0 +1,15 @@
+.page-heading {
+  margin-top: 1em;
+  margin-bottom: 0;
+  padding-bottom: 1em;
+  text-align: center;
+  line-height: 1; }
+  .page-heading:after {
+    content: '';
+    display: block;
+    widht: 70px;
+    height: 3px;
+    background: #F6624A;
+    margin: 40px auto 0; }
+
+/*# sourceMappingURL=app.css.map */
